@@ -13,7 +13,7 @@ To classify the **seniority level** (Entry-level, Mid-Senior, Executive, etc.) o
 
 ---
 
-## 📁 Dataset Overview
+## 📁 Dataset Overview (Link - https://www.kaggle.com/datasets/ivankmk/thousand-ml-jobs-in-usa) 
 
 - Source: Kaggle
 - Records: ~988 job postings
