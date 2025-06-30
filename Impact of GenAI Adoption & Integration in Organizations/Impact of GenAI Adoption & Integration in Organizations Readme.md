@@ -5,7 +5,7 @@ This machine learning project predicts the **Productivity Change (%)** after ado
 ## 🧠 Problem Statement
 With the rise of GenAI adoption, companies are observing varied levels of impact on workforce productivity. This project aims to predict how much productivity is affected based on company attributes, tools used, employee sentiment, and training hours.
 
-## 🔍 Dataset
+## 🔍 Dataset (Link - https://www.kaggle.com/datasets/tfisthis/enterprise-genai-adoption-and-workforce-impact-data)
 - Source: Kaggle
 - Records: 100,000
 - Features:
