@@ -6,7 +6,7 @@ This project predicts the aqueous solubility of chemical compounds using their *
 To build a regression model that predicts the **logS (aqueous solubility)** of a molecule based on molecular descriptors derived from SMILES strings.
 
 ## 🧠 Dataset Overview
-- Dataset: `delaney.csv` (based on the Delaney solubility dataset)
+- Dataset: `delaney.csv` (based on the Delaney solubility dataset) (Link - https://www.kaggle.com/datasets/prashanthbairu/delaney-solubility-with-descriptors)
 - Records: ~1,100 molecules
 - Columns: 
   - `smiles`: Simplified molecular-input line-entry system
