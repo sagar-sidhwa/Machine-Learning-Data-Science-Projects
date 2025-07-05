@@ -7,7 +7,7 @@ Enable doctors and nurses to **automatically receive summaries** of patient hist
 
 ---
 
-## 📚 Dataset
+## 📚 Dataset (link - https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions)
 **Source:** [Kaggle – Medical Transcription Samples]  
 **Rows:** ~4,999  
 **Key Columns:**
