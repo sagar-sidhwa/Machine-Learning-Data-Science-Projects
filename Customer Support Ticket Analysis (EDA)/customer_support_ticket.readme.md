@@ -10,7 +10,7 @@ To build a system that can understand and classify incoming customer support mes
 
 ---
 
-## 📁 Dataset
+## 📁 Dataset (Link - https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
 - Source: Kaggle (Customer Support Ticket Dataset)
 - Size: ~8,500 rows
 - Target: `Ticket Type` (Multi-class)
