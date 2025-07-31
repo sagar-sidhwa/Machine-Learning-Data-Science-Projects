@@ -10,7 +10,7 @@ To predict the **intent** behind a customer’s support ticket by analyzing the 
 
 ---
 
-## 📁 Dataset
+## 📁 Dataset (Link - https://huggingface.co/datasets/rbojja/labelled_bank_support_dataset)
 - Source: HuggingFace Dataset Hub (`rbojja/labelled_bank_support_dataset`)
 - Fields: `domain`, `subdomain`, `category`, `example`, `intent`
 
