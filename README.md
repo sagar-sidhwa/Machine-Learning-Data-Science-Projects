@@ -19,12 +19,22 @@ As a Computer Science Master's Graduate with a focus in Artificial Intelligence,
 
 ### ✅ Supervised Machine Learning
 | Project | Domain | Models Used | Summary |
-|--------|--------|--------------|---------|
-| **🎓 Student Social Media Addiction** | Regression | Linear, SVM, Random Forest | Analyzed and predicted addiction scores using survey data |
-| **🌾 Optimal Fertilizer Prediction** | Multiclass Classification | Logistic, XGBoost, RF | Predicted top-3 fertilizers for crop-soil conditions (MAP@3) |
-| **🛣️ Pavement Maintenance Forecast** | Binary Classification | LR, SVM, RF, XGB, LGBM | Forecasted maintenance need based on road health (PCI) and traffic |
+|--------|--------|-------------|---------|
+| **⚡ PowerCast - Data Center Energy Forecasting** | Regression | Neural Networks, Linear, Random Forest | Forecasted energy consumption using time-series and workload metrics; captured non-linear patterns for sustainability. |
+| **🚖 Uber Fare Prediction** | Regression | Linear, Ridge, Random Forest, XGBoost | Predicted Uber fares using trip, time, and location data with feature engineering for distance and time.|
+| **🧠 Brain Tumor Detection from MRI Images** | Image Classification | CNN, VGG16, ResNet, EfficientNet | Classified MRI scans into tumor/non-tumor categories with transfer learning and data augmentation. |
+| **💊 LLM + RAG Medical Transcription Summarizer** | NLP / Generative AI | LLM, RAG, Sentence-Transformers, FAISS | Summarized patient histories using historical context and LLM embeddings for smart medical insights. |
+| **📞 Customer Support Ticket Classification** | NLP / Multi-class | Random Forest, Logistic Regression, Sentence-BERT | Classified support tickets into intent categories using embeddings and ML classifiers. |
+| **🏦 Bank IT Support Ticket Classification** | NLP / Multi-class | Logistic Regression, Random Forest, SGD, MLP | Predicted ticket intent from bank IT support data using sentence embeddings and ML classifiers. |
+| **📊 Impact of GenAI Adoption on Organizational Productivity** | Regression | Linear, Ridge, Random Forest, XGBoost, LightGBM | Predicted productivity change (%) after GenAI adoption using structured & unstructured enterprise data. |
+| **🛣️ Pavement Condition Monitoring & Maintenance Prediction** | Binary Classification | Logistic Regression, Random Forest, SVM, XGBoost, LightGBM | Predicted road segments needing maintenance using PCI, traffic, and weather data. |
+| **🎓 Predicting Student Social Media Addiction** | Regression | Linear, SVR, Random Forest | Predicted student addiction scores based on behavioral, academic, and psychological features. |
+| **🌐 Analysis of Cultural Impact on Tech Discussions: Reddit vs YouTube** | Exploratory Data Analysis | Statistical Analysis, NLP | Analyzed differences in tech discussion patterns and engagement between platforms. |
+| **💌 OK Cupid Profiles Analysis** | EDA / Predictive Modeling | Regression, Clustering | Explored patterns in user profiles and behaviors using feature analysis and predictive insights. |
+| **🚨 Cyberbullying & Fake Account Detection** | Classification | Random Forest, SVM, Logistic Regression | Detected harmful behaviors on social media using NLP and ML classifiers. |
+| **🎟️ Attendance Recognition System Using Facial Recognition** | Image Classification | OpenCV, CNN, Face Recognition Models | Automated attendance using facial recognition and image classification pipelines. |
+| **📚 Audiobook System** | NLP / Audio | Text-to-Speech, NLP, PyTesseract, pyttsx3 | Converted text to audio and enhanced learning experience with AI-generated audiobooks. |
 
----
 
 ## 🧩 What I'm Exploring Next
 
