@@ -1,4 +1,4 @@
-# 🤖 Machine Learning & Data Science Projects by Sagar Sidhwa
+# 🤖 AI | Machine Learning | LLM & Data Science Projects by Sagar Sidhwa
 
 Welcome to my end-to-end journey through Machine Learning, Data Science, and Artificial Intelligence! This repository showcases a growing collection of practical, real-world projects where I apply data-driven thinking, statistical reasoning, and ML engineering to solve diverse problems.
 
