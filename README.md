@@ -20,6 +20,7 @@ As a Computer Science Master's Graduate with a focus in Artificial Intelligence,
 ### ✅ Supervised Machine Learning
 | Project | Domain | Models Used | Summary |
 |--------|--------|-------------|---------|
+| **📸 Photo Vision - Context Aware Image Editing Image Classifier & Adaptive Enhancer** | Computer Vision | EfficientNetB0, Custom CNN, OpenCV, Transfer Learning | Classifies images into contexts (Docs, Nature, Low-Light) and triggers adaptive enhancement algorithms (Gamma, Thresholding) for dynamic optimization. |
 | **⚡ PowerCast - Data Center Energy Forecasting** | Regression | Neural Networks, Linear, Random Forest | Forecasted energy consumption using time-series and workload metrics; captured non-linear patterns for sustainability. |
 | **🚖 Uber Fare Prediction** | Regression | Linear, Ridge, Random Forest, XGBoost | Predicted Uber fares using trip, time, and location data with feature engineering for distance and time.|
 | **🧠 Brain Tumor Detection from MRI Images** | Image Classification | CNN, VGG16, ResNet, EfficientNet | Classified MRI scans into tumor/non-tumor categories with transfer learning and data augmentation. |
